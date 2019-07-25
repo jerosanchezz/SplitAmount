@@ -1,4 +1,4 @@
-# Split-Amount
+# SplitAmount
 
 Simple and easy Split Amount calculator. Split the bill among people and calculate the tip. The Split Amount calculator can also calculate the discount amount. Enter the bill amount and use the plus and minus buttons to calculate the amount per person or Discount amount.
 
@@ -6,6 +6,13 @@ FEATURES
 • Split the bill among people and calculate the tip.
 • Calculate the discount amount.
 • Simple and Easy.	
+
+
+# Contact Us
+
+If you have any questions or suggestions about our app, do not hesitate to contact us.
+
+Email: fxiaoding@gmail.com
 
 ## Privacy Policy
 
